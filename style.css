@@ -1,0 +1,62 @@
+
+body
+{
+	 background: linear-gradient(to bottom, #ff0066 0%, #0000ff 100%);
+	}
+.nav-bar
+{
+	background-color:black;
+	padding:1.5%;
+	
+}
+.white-font
+{
+	color:white;
+	
+}
+.fied-back
+{
+	   background: linear-gradient(to right, #003300 0%, #ffff00 100%);
+}
+.div-marg
+{
+	margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 250px;
+  margin-left: 500;
+}
+.bold{
+	 font-weight: bold;
+	
+}
+input[type=text]{
+	  width: 50%;
+  padding: 5px 5px;
+  margin: 2px 0;
+  border:3px outset red;
+	
+}
+input[type=email]{
+	  width: 50%;
+  padding: 5px 5px;
+  margin: 2px 0;
+  border:3px outset green;
+	
+}
+input[type=datetime]{
+	  width: 50%;
+  padding: 5px 5px;
+  margin: 2px 0;
+
+  border:3px outset green;
+}
+
+.button-marg{
+  margin-right: 20px;
+  margin-left: 150;
+  background-color:red;
+  color:white;
+ font-weight: bold;
+  border:outset black;
+  font-size:20;
+}
